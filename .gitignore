@@ -1,0 +1,4 @@
+*.exe
+*.pdb
+TSP/bin
+TSP/obj
