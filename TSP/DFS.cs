@@ -7,5 +7,6 @@ namespace TSP
 {
     class DFS
     {
+        //и он правильно работает!
     }
 }
